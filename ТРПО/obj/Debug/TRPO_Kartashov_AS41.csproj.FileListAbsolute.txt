@@ -1,0 +1,59 @@
+C:\Users\socdd\source\repos\TRPO_Kartashov_AS41\bin\Debug\TRPO_Kartashov_AS41.exe.config
+C:\Users\socdd\source\repos\TRPO_Kartashov_AS41\bin\Debug\TRPO_Kartashov_AS41.exe
+C:\Users\socdd\source\repos\TRPO_Kartashov_AS41\bin\Debug\TRPO_Kartashov_AS41.pdb
+C:\Users\socdd\source\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.csproj.SuggestedBindingRedirects.cache
+C:\Users\socdd\source\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.Properties.Resources.resources
+C:\Users\socdd\source\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.csproj.GenerateResource.cache
+C:\Users\socdd\source\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.csproj.CoreCompileInputs.cache
+C:\Users\socdd\source\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.exe
+C:\Users\socdd\source\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.pdb
+C:\Users\socdd\source\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.MainForm.resources
+C:\Users\socdd\Desktop\TRPO_Kartashov_AS41\bin\Debug\TRPO_Kartashov_AS41.exe.config
+C:\Users\socdd\Desktop\TRPO_Kartashov_AS41\bin\Debug\TRPO_Kartashov_AS41.exe
+C:\Users\socdd\Desktop\TRPO_Kartashov_AS41\bin\Debug\TRPO_Kartashov_AS41.pdb
+C:\Users\socdd\Desktop\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.csproj.AssemblyReference.cache
+C:\Users\socdd\Desktop\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.csproj.SuggestedBindingRedirects.cache
+C:\Users\socdd\Desktop\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.MainForm.resources
+C:\Users\socdd\Desktop\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.Properties.Resources.resources
+C:\Users\socdd\Desktop\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.csproj.GenerateResource.cache
+C:\Users\socdd\Desktop\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.csproj.CoreCompileInputs.cache
+C:\Users\socdd\Desktop\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.exe
+C:\Users\socdd\Desktop\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.pdb
+C:\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.csproj.AssemblyReference.cache
+C:\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.csproj.SuggestedBindingRedirects.cache
+C:\repos\TRPO_Kartashov_AS41\obj\Debug\Interop.ACTIVEXLib.dll
+C:\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.csproj.ResolveComReference.cache
+C:\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.MainForm.resources
+C:\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.Properties.Resources.resources
+C:\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.csproj.GenerateResource.cache
+C:\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.csproj.CoreCompileInputs.cache
+C:\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.exe
+C:\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.pdb
+C:\repos\TRPO_Kartashov_AS41\bin\Debug\TRPO_Kartashov_AS41.exe.config
+C:\repos\TRPO_Kartashov_AS41\bin\Debug\TRPO_Kartashov_AS41.exe
+C:\repos\TRPO_Kartashov_AS41\bin\Debug\TRPO_Kartashov_AS41.pdb
+C:\repos\TRPO_Kartashov_AS41\bin\Debug\Antlr3.Runtime.dll
+C:\repos\TRPO_Kartashov_AS41\bin\Debug\ExpressionEvaluator.dll
+C:\repos\TRPO_Kartashov_AS41\bin\Debug\GSF.Core.dll
+C:\repos\TRPO_Kartashov_AS41\bin\Debug\Antlr3.Runtime.pdb
+C:\repos\TRPO_Kartashov_AS41\bin\Debug\GSF.Core.xml
+C:\repos\TRPO_Kartashov_AS41\obj\Debug\TRPO_Kartashov_AS41.csproj.CopyComplete
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\bin\Debug\TRPO_Kartashov_AS41.exe.config
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\bin\Debug\TRPO_Kartashov_AS41.exe
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\bin\Debug\TRPO_Kartashov_AS41.pdb
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\bin\Debug\Antlr3.Runtime.dll
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\bin\Debug\ExpressionEvaluator.dll
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\bin\Debug\GSF.Core.dll
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\bin\Debug\GSF.Core.xml
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\obj\Debug\TRPO_Kartashov_AS41.csproj.AssemblyReference.cache
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\obj\Debug\TRPO_Kartashov_AS41.csproj.SuggestedBindingRedirects.cache
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\obj\Debug\TRPO_Kartashov_AS41.csproj.ResolveComReference.cache
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\obj\Debug\TRPO_Kartashov_AS41.MainForm.resources
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\obj\Debug\TRPO_Kartashov_AS41.Properties.Resources.resources
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\obj\Debug\TRPO_Kartashov_AS41.csproj.GenerateResource.cache
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\obj\Debug\TRPO_Kartashov_AS41.csproj.CoreCompileInputs.cache
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\obj\Debug\TRPO_Kartashov_AS41.csproj.CopyComplete
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\obj\Debug\TRPO_Kartashov_AS41.exe
+C:\Users\socdd\OneDrive\Рабочий стол\ТРПО\obj\Debug\TRPO_Kartashov_AS41.pdb
